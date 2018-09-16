@@ -1,0 +1,14 @@
+The most important statistical bias types
+
+Selection bias
+Self-selection bias
+Recall bias
+Observer bias
+Survivorship bias
+Omitted variable bias
+Cause-effect bias
+Funding bias
+Cognitive bias
+
+https://data36.com/statistical-bias-types-explained/
+https://data36.com/statistical-bias-types-examples-part2/
